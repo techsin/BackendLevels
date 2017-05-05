@@ -2,6 +2,9 @@
 List of things Backend developer of certain levels should be able to do/understand/use
 
 
+Please add all concepts that a backend developer should/could know, or is something has to do.
+
+
 ##more
 
 ## APIs
